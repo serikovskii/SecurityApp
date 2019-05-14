@@ -1,0 +1,24 @@
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.Models\bin\Debug\SecutiryApp.Models.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.Models\bin\Debug\SecutiryApp.Models.pdb
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.Models\obj\Debug\SecutiryApp.Models.csprojAssemblyReference.cache
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.Models\obj\Debug\SecutiryApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.Models\obj\Debug\SecutiryApp.Models.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.Models\obj\Debug\SecutiryApp.Models.pdb
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.Models\bin\Debug\SecutiryApp.Models.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.Models\bin\Debug\SecutiryApp.Models.pdb
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.Models\obj\Debug\SecutiryApp.Models.csprojAssemblyReference.cache
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.Models\obj\Debug\SecutiryApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.Models\obj\Debug\SecutiryApp.Models.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.Models\obj\Debug\SecutiryApp.Models.pdb
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Models\bin\Debug\SecutiryApp.Models.dll
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Models\bin\Debug\SecutiryApp.Models.pdb
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Models\obj\Debug\SecutiryApp.Models.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Models\obj\Debug\SecutiryApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Models\obj\Debug\SecutiryApp.Models.dll
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Models\obj\Debug\SecutiryApp.Models.pdb
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Models\bin\Debug\MaterialDesignColors.dll
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Models\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Models\bin\Debug\MaterialDesignColors.pdb
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Models\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Models\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Models\obj\Debug\SecutiryApp.Models.csproj.CopyComplete

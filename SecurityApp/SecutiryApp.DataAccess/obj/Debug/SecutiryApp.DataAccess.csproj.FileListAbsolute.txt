@@ -1,0 +1,54 @@
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.DataAccess\bin\Debug\SecutiryApp.DataAccess.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.DataAccess\bin\Debug\SecutiryApp.DataAccess.pdb
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.DataAccess\bin\Debug\SecutiryApp.Models.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.DataAccess\bin\Debug\SecutiryApp.Services.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.DataAccess\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.DataAccess\bin\Debug\SecutiryApp.Models.pdb
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.DataAccess\bin\Debug\SecutiryApp.Services.pdb
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.DataAccess\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.DataAccess\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.DataAccess\obj\Debug\SecutiryApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.DataAccess\obj\Debug\SecutiryApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.DataAccess\obj\Debug\SecutiryApp.DataAccess.csproj.CopyComplete
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.DataAccess\obj\Debug\SecutiryApp.DataAccess.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.DataAccess\obj\Debug\SecutiryApp.DataAccess.pdb
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.DataAccess\bin\Debug\SecutiryApp.DataAccess.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.DataAccess\bin\Debug\SecutiryApp.DataAccess.pdb
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.DataAccess\bin\Debug\SecutiryApp.Models.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.DataAccess\bin\Debug\SecutiryApp.Services.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.DataAccess\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.DataAccess\bin\Debug\SecutiryApp.Models.pdb
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.DataAccess\bin\Debug\SecutiryApp.Services.pdb
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.DataAccess\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.DataAccess\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.DataAccess\obj\Debug\SecutiryApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.DataAccess\obj\Debug\SecutiryApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.DataAccess\obj\Debug\SecutiryApp.DataAccess.csproj.CopyComplete
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.DataAccess\obj\Debug\SecutiryApp.DataAccess.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.DataAccess\obj\Debug\SecutiryApp.DataAccess.pdb
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp.DataAccess\bin\Debug\SecutiryApp.DataAccess.dll
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp.DataAccess\bin\Debug\SecutiryApp.DataAccess.pdb
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp.DataAccess\bin\Debug\SecutiryApp.Models.dll
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp.DataAccess\bin\Debug\SecutiryApp.Services.dll
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp.DataAccess\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp.DataAccess\bin\Debug\SecutiryApp.Models.pdb
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp.DataAccess\bin\Debug\SecutiryApp.Services.pdb
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp.DataAccess\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp.DataAccess\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp.DataAccess\obj\Debug\SecutiryApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp.DataAccess\obj\Debug\SecutiryApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp.DataAccess\obj\Debug\SecutiryApp.DataAccess.csproj.CopyComplete
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp.DataAccess\obj\Debug\SecutiryApp.DataAccess.dll
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp.DataAccess\obj\Debug\SecutiryApp.DataAccess.pdb

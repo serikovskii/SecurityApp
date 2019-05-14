@@ -1,0 +1,29 @@
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.Services\bin\Debug\SecutiryApp.Services.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.Services\bin\Debug\SecutiryApp.Services.pdb
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.Services\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.Services\obj\Debug\SecutiryApp.Services.csprojAssemblyReference.cache
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.Services\obj\Debug\SecutiryApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.Services\obj\Debug\SecutiryApp.Services.csproj.CopyComplete
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.Services\obj\Debug\SecutiryApp.Services.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp.Services\obj\Debug\SecutiryApp.Services.pdb
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.Services\bin\Debug\SecutiryApp.Services.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.Services\bin\Debug\SecutiryApp.Services.pdb
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.Services\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.Services\obj\Debug\SecutiryApp.Services.csprojAssemblyReference.cache
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.Services\obj\Debug\SecutiryApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.Services\obj\Debug\SecutiryApp.Services.csproj.CopyComplete
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.Services\obj\Debug\SecutiryApp.Services.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp.Services\obj\Debug\SecutiryApp.Services.pdb
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Services\bin\Debug\SecutiryApp.Services.dll
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Services\bin\Debug\SecutiryApp.Services.pdb
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Services\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Services\obj\Debug\SecutiryApp.Services.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Services\obj\Debug\SecutiryApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Services\obj\Debug\SecutiryApp.Services.csproj.CopyComplete
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Services\obj\Debug\SecutiryApp.Services.dll
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Services\obj\Debug\SecutiryApp.Services.pdb
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Services\bin\Debug\MaterialDesignColors.dll
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Services\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Services\bin\Debug\MaterialDesignColors.pdb
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Services\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp.Services\bin\Debug\MaterialDesignThemes.Wpf.xml

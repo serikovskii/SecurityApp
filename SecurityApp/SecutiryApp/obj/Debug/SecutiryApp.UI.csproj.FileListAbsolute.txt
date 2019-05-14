@@ -1,0 +1,145 @@
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\bin\Debug\SecutiryApp.exe.config
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\bin\Debug\SecutiryApp.exe
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\bin\Debug\SecutiryApp.pdb
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\bin\Debug\EntityFramework.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\bin\Debug\SecutiryApp.DataAccess.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\bin\Debug\SecutiryApp.Models.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\bin\Debug\SecutiryApp.Services.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\bin\Debug\SecutiryApp.DataAccess.pdb
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\bin\Debug\SecutiryApp.Models.pdb
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\bin\Debug\SecutiryApp.Services.pdb
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\bin\Debug\EntityFramework.xml
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\obj\Debug\SecutiryApp.UI.csprojAssemblyReference.cache
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\obj\Debug\MainWindow.baml
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\obj\Debug\MainWindow.g.cs
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\obj\Debug\App.g.cs
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\obj\Debug\SecutiryApp_MarkupCompile.cache
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\obj\Debug\SecutiryApp.g.resources
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\obj\Debug\SecutiryApp.Properties.Resources.resources
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\obj\Debug\SecutiryApp.UI.csproj.GenerateResource.cache
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\obj\Debug\SecutiryApp.UI.csproj.CoreCompileInputs.cache
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\obj\Debug\SecutiryApp.UI.csproj.CopyComplete
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\obj\Debug\SecutiryApp.exe
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\obj\Debug\SecutiryApp.pdb
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\obj\Debug\RegistrationWindow.g.cs
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\obj\Debug\SecutiryApp_MarkupCompile.lref
+C:\Users\КеримтайА\source\repos\SecutiryApp\SecutiryApp\obj\Debug\RegistrationWindow.baml
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\bin\Debug\SecutiryApp.exe.config
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\bin\Debug\SecutiryApp.exe
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\bin\Debug\SecutiryApp.pdb
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\bin\Debug\EntityFramework.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\bin\Debug\SecutiryApp.DataAccess.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\bin\Debug\SecutiryApp.Models.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\bin\Debug\SecutiryApp.Services.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\bin\Debug\SecutiryApp.DataAccess.pdb
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\bin\Debug\SecutiryApp.Models.pdb
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\bin\Debug\SecutiryApp.Services.pdb
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\bin\Debug\EntityFramework.xml
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\obj\Debug\SecutiryApp.UI.csprojAssemblyReference.cache
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\obj\Debug\MainWindow.baml
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\obj\Debug\RegistrationWindow.baml
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\obj\Debug\MainWindow.g.cs
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\obj\Debug\RegistrationWindow.g.cs
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\obj\Debug\App.g.cs
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\obj\Debug\SecutiryApp_MarkupCompile.cache
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\obj\Debug\SecutiryApp.g.resources
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\obj\Debug\SecutiryApp.Properties.Resources.resources
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\obj\Debug\SecutiryApp.UI.csproj.GenerateResource.cache
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\obj\Debug\SecutiryApp.UI.csproj.CoreCompileInputs.cache
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\obj\Debug\SecutiryApp.UI.csproj.CopyComplete
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\obj\Debug\SecutiryApp.exe
+C:\Users\Askar Kerimtay\Documents\GitHub\ControlsLesson\SecutiryApp\obj\Debug\SecutiryApp.pdb
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\bin\Debug\SecutiryApp.exe.config
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\bin\Debug\SecutiryApp.exe
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\bin\Debug\SecutiryApp.pdb
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\bin\Debug\EntityFramework.dll
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\bin\Debug\SecutiryApp.DataAccess.dll
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\bin\Debug\SecutiryApp.Models.dll
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\bin\Debug\SecutiryApp.Services.dll
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\bin\Debug\SecutiryApp.DataAccess.pdb
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\bin\Debug\SecutiryApp.Models.pdb
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\bin\Debug\SecutiryApp.Services.pdb
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\bin\Debug\EntityFramework.xml
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\obj\Debug\SecutiryApp.UI.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\obj\Debug\MainWindow.baml
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\obj\Debug\RegistrationWindow.baml
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\obj\Debug\MainWindow.g.cs
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\obj\Debug\RegistrationWindow.g.cs
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\obj\Debug\App.g.cs
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\obj\Debug\SecutiryApp_MarkupCompile.cache
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\obj\Debug\SecutiryApp.g.resources
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\obj\Debug\SecutiryApp.Properties.Resources.resources
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\obj\Debug\SecutiryApp.UI.csproj.GenerateResource.cache
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\obj\Debug\SecutiryApp.UI.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\obj\Debug\SecutiryApp.UI.csproj.CopyComplete
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\obj\Debug\SecutiryApp.exe
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\obj\Debug\SecutiryApp.pdb
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\obj\Debug\SecutiryApp_MarkupCompile.lref
+C:\Users\МукушевА.CORP\Desktop\ControlsLesson-master\SecutiryApp\obj\Debug\App.baml
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\bin\Debug\SecutiryApp.exe.config
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\bin\Debug\SecutiryApp.exe
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\bin\Debug\SecutiryApp.pdb
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\bin\Debug\EntityFramework.dll
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\bin\Debug\SecutiryApp.DataAccess.dll
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\bin\Debug\SecutiryApp.Models.dll
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\bin\Debug\SecutiryApp.Services.dll
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\bin\Debug\SecutiryApp.DataAccess.pdb
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\bin\Debug\SecutiryApp.Models.pdb
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\bin\Debug\SecutiryApp.Services.pdb
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\bin\Debug\EntityFramework.xml
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\obj\Debug\SecutiryApp.UI.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\obj\Debug\MainWindow.baml
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\obj\Debug\RegistrationWindow.baml
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\obj\Debug\MainWindow.g.cs
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\obj\Debug\RegistrationWindow.g.cs
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\obj\Debug\App.g.cs
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\obj\Debug\SecutiryApp_MarkupCompile.cache
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\obj\Debug\SecutiryApp_MarkupCompile.lref
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\obj\Debug\App.baml
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\obj\Debug\SecutiryApp.g.resources
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\obj\Debug\SecutiryApp.Properties.Resources.resources
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\obj\Debug\SecutiryApp.UI.csproj.GenerateResource.cache
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\obj\Debug\SecutiryApp.UI.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\obj\Debug\SecutiryApp.UI.csproj.CopyComplete
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\obj\Debug\SecutiryApp.exe
+C:\Users\МукушевА.CORP\Desktop\SecurityApp\SecutiryApp\obj\Debug\SecutiryApp.pdb
